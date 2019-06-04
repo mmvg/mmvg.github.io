@@ -3,116 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://mmvg.org/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://mmvg.org/post/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/post2/</loc>
+    <loc>http://mmvg.org/post/post2/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/learning/</loc>
+    <loc>http://mmvg.org/publication/learning/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publication/</loc>
+    <loc>http://mmvg.org/publication/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/project/deeplearning/</loc>
+    <loc>http://mmvg.org/project/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/</loc>
+    <loc>http://mmvg.org/project/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/project/widelearning/</loc>
+    <loc>http://mmvg.org/project/widelearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member1/</loc>
+    <loc>http://mmvg.org/member/member1/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member2/</loc>
+    <loc>http://mmvg.org/member/member2/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/member3/</loc>
+    <loc>http://mmvg.org/member/member3/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/member/</loc>
+    <loc>http://mmvg.org/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/notebook/</loc>
+    <loc>http://mmvg.org/post/notebook/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/post1/</loc>
+    <loc>http://mmvg.org/post/post1/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://mmvg.org/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/approach/</loc>
+    <loc>http://mmvg.org/approach/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/mission/</loc>
+    <loc>http://mmvg.org/mission/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
+    <loc>http://mmvg.org/research/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/vacancy/vacancy1/</loc>
+    <loc>http://mmvg.org/vacancy/vacancy1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://mmvg.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://mmvg.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/vacancy/</loc>
+    <loc>http://mmvg.org/vacancy/</loc>
     <priority>0</priority>
   </url>
   
