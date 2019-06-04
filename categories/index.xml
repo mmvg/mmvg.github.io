@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Monash Machine Vision Group</title>
-    <link>http://mmvg.org/categories/</link>
+    <link>http://www.mmvg.org/categories/</link>
     <description>Recent content in Categories on Monash Machine Vision Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Monash Machine Vision Group, 2019 </copyright>
     
-	<atom:link href="http://mmvg.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.mmvg.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
