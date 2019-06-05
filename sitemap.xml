@@ -3,28 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.mmvg.org/project/deeplearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/project/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/project/widelearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.mmvg.org/member/member1/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url>
@@ -41,6 +19,12 @@
   
   <url>
     <loc>http://www.mmvg.org/member/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mmvg.org/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <priority>0</priority>
   </url>
