@@ -6,20 +6,10 @@
     <description>Recent content on Monash Machine Vision Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Monash Machine Vision Group, 2019 </copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 16:50:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2016 16:37:31 +0200</lastBuildDate>
     
 	<atom:link href="http://www.mmvg.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test post please ignore</title>
-      <link>http://www.mmvg.org/post/post2/</link>
-      <pubDate>Tue, 12 Jul 2016 16:50:58 +0200</pubDate>
-      
-      <guid>http://www.mmvg.org/post/post2/</guid>
-      <description>Est Procrin Terrigenam rorant colla victoria per monstra obiecit Lorem markdownum, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus, postquam videt et mediis. Pectine rigorem aethera, signum, saucia Salmacis si facibus pectore aversos gentes neve, et usus siqua.
-Aestuque deceant fuerat quam iura Rabie intus fugio potentia, protecta proculcat pelle, membris in praesens lustrantem ignis inmemores puer mitissima tenent.</description>
-    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -81,26 +71,6 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
     </item>
     
     <item>
-      <title>Jupyter Notebook</title>
-      <link>http://www.mmvg.org/post/notebook/</link>
-      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      
-      <guid>http://www.mmvg.org/post/notebook/</guid>
-      <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.
- Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
-    </item>
-    
-    <item>
-      <title>Markdown ipsum</title>
-      <link>http://www.mmvg.org/post/post1/</link>
-      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      
-      <guid>http://www.mmvg.org/post/post1/</guid>
-      <description>Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub Spartana loca ignibus. In partibus muneris, paludes rara, plectrumque, fontis, concubitus a locoque demptos exclamat conde ab aethera nihil.
- Quamquam abit vulnere nec intus decidit clamor Nocuit quae tamen timent aperta Cervice preces totumque postquam nunc iacit sive Potestas te sis putaret sceleri totiens Retro profundo ad sede Iovem in este In ait flumina intrare Troiae  Ut fatis praecordia alvum iamque, adeo tympana male silvas.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://www.mmvg.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,6 +86,16 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.mmvg.org/approach/</guid>
+      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.mmvg.org/funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mmvg.org/funding/</guid>
       <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
 Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.</description>
     </item>
@@ -146,8 +126,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.mmvg.org/vacancy/vacancy1/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+      <description></description>
     </item>
     
   </channel>

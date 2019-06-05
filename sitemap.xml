@@ -3,25 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.mmvg.org/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/post/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/post/post2/</loc>
-    <lastmod>2016-07-12T16:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.mmvg.org/publication/learning/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.mmvg.org/</loc>
+    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -68,22 +57,17 @@
   </url>
   
   <url>
-    <loc>http://www.mmvg.org/post/notebook/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/post/post1/</loc>
-    <lastmod>2016-07-12T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.mmvg.org/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.mmvg.org/approach/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mmvg.org/funding/</loc>
     <priority>0</priority>
   </url>
   
