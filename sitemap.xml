@@ -95,6 +95,11 @@
   </url>
   
   <url>
+    <loc>http://www.mmvg.org/grants/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.mmvg.org/mission/</loc>
     <priority>0</priority>
   </url>
