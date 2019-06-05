@@ -3,25 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.mmvg.org/publication/learning/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
+    <loc>http://www.mmvg.org/project/deeplearning/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.mmvg.org/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/publication/</loc>
-    <lastmod>2016-07-12T16:37:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mmvg.org/project/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
