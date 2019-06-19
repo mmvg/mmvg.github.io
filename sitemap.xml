@@ -105,12 +105,21 @@
   </url>
   
   <url>
+    <loc>http://www.mmvg.org/research-fellow/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.mmvg.org/research/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.mmvg.org/vacancy/vacancy1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.mmvg.org/vacancy/vacancy2/</loc>
   </url>
   
   <url>
